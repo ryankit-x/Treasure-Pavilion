@@ -1,11 +1,11 @@
-# LocalSend
+# Xournalpp
 
 ## Where to find it?
 
 * GitHub: https://github.com/xournalpp/xournalpp
 * Official Website: https://xournalpp.github.io
 
-![](../img/Xournalpp/Xournalpp.png)
+![](img/Xournalpp.png)
 
 ## Feature
 
