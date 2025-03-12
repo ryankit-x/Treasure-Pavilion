@@ -8,13 +8,13 @@
 
 ## Typora Theme
 
-* [Mdmdt](./Typora Theme/Mdmdt) - Typora 极简文档主题 Mdmdt，包含亮色和暗色两种主题，是深度定制的个性化 Typora 主题。
+* [Mdmdt](./TyporaTheme/Mdmdt) - Typora 极简文档主题 Mdmdt，包含亮色和暗色两种主题，是深度定制的个性化 Typora 主题。
 
-![](img/Typora Theme/mdmdt.png)
+![](img/TyporaTheme/mdmdt.png)
 
-* [typora-vue-theme](./Typora Theme/typora-vue-theme) - 一个类似于 Vue 文档风格的 Typora Markdown 编辑器主题。
+* [typora-vue-theme](./TyporaTheme/typora-vue-theme) - 一个类似于 Vue 文档风格的 Typora Markdown 编辑器主题。
 
-![](img/Typora Theme/typora-vue-theme.png)
+![](img/TyporaTheme/typora-vue-theme.png)
 
 ## Xournal++
 
