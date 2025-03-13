@@ -39,3 +39,10 @@
     * Android
     * iOS
 
+## WinMerge
+
+[WinMerge](./WinMerge/WinMerge.md) 是适用于 Windows 的开源的差异化和合并工具。WinMerge 可以比较文件夹和文件，以易于理解和处理的视觉文本格式呈现差异。
+
+* GitHub: https://github.com/winmerge/winmerge
+* Official Website: https://winmerge.org
+* Support for `Only Windows`
