@@ -43,3 +43,7 @@ Xournal++ 是一款用 C++ 编写的手写笔记软件，其目标是灵活性�
 * Windows
 * GNU/Linux
 * MacOS(both Intel and Apple Silicon)
+
+## Latest Version
+
+https://github.com/xournalpp/xournalpp/releases/tag/v1.2.6
