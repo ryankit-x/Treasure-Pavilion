@@ -46,3 +46,14 @@
 * GitHub: https://github.com/winmerge/winmerge
 * Official Website: https://winmerge.org
 * Support for `Only Windows`
+
+## ClashVergeRev
+
+[ClashVergeRev](./ClashVerge/ClashVergeRev.md) A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience.
+
+* Github: https://github.com/clash-verge-rev/clash-verge-rev
+* Official Website: https://www.clashverge.dev
+* Support the following platforms:
+    * Windows
+    * Linux
+    * MacOS
